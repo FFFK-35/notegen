@@ -139,7 +139,7 @@
       "order": 5
     }
   ],
-  "useImageRepo": false,
+  "useImageRepo": true,
   "giteaUsername": "",
   "promptList": [
     {
@@ -152,10 +152,10 @@
   "autoDataSyncInitialChoice:github": true,
   "inspirationModel": "note-gen-chat",
   "lastSettingPage": "about",
-  "completionModel": "note-gen-chat",
+  "completionModel": "note-gen-limited-deepseek-ai/DeepSeek-V3.2",
   "audioModel": "",
   "primaryModel": "note-gen-chat",
-  "commitModel": "note-gen-chat",
+  "commitModel": "note-gen-limited-deepseek-ai/DeepSeek-V3.2",
   "gitlabUsername": "",
   "giteaCustomUrl": "",
   "noteGenDefaultModelsCache": {
