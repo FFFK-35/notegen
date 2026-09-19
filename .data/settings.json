@@ -15,7 +15,7 @@
   "placeholderModel": "",
   "markDescModel": "note-gen-chat",
   "autoPullOnOpen": true,
-  "githubCustomImageRepo": "",
+  "githubCustomImageRepo": "notegen-tuchuang",
   "enableImageRecognition": true,
   "embeddingModel": "note-gen-embedding",
   "githubUsername": "FFFK-35",
