@@ -149,6 +149,7 @@
       "title": "写作助手"
     }
   ],
+  "autoDataSyncInitialChoice:github": true,
   "inspirationModel": "note-gen-chat",
   "lastSettingPage": "about",
   "completionModel": "note-gen-chat",
